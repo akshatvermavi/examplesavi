@@ -5,7 +5,7 @@
  </h1>
  
  
-A repository showcasing examples of using [Deep Lake](https://github.com/activeloopai/deeplake)
+ A repository showcasing examples of using [Deep Lake](https://github.com/activeloopai/deeplake)
  - [Uploading Dataset Places365](places365/upload.py)
  - [Notebook on uploading COCO](coco/upload_coco.ipynb)
  - [Training a model using Pytorch Lightning](pytorch-lightning/mnist.py)
@@ -24,7 +24,7 @@ A repository showcasing examples of using [Deep Lake](https://github.com/activel
 | Training an Image Classification Model in PyTorch  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/activeloopai/examples/blob/main/colabs/Training_an_Image_Classification_Model_in_PyTorch.ipynb) |
 | Creating Time-Series Datasets  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/activeloopai/examples/blob/main/colabs/Creating_Time_Series_Datasets.ipynb) |
 
-Machine Learning teams can apply Activeloop's data infrastructure to ship their models fast in the following use cases:
+ Machine Learning teams can apply Activeloop's data infrastructure to ship their models fast in the following use cases:
 
  1. [AgriTech](https://www.activeloop.ai/solutions/agriculture/)
  2. [Audio processing](https://www.activeloop.ai/solutions/audio/)
